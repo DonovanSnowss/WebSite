@@ -1,5 +1,5 @@
 # WebSite
-A template of a simple website.
+A template of a webapp build using react.js 
 ------------
 Pages
 
@@ -12,5 +12,6 @@ Pages
 * History
 * Contact us
 * News Letter
+
 
 
